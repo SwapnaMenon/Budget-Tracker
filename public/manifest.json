@@ -4,13 +4,11 @@
             "src":"icons/icon-512x512.png",
             "sizes":"512x512",
             "type":"image/png"
-
         },
         {
             "src":"icons/icon-96x96.png",
             "sizes":"96x96",
             "type":"image/png"
-
         },
         {
             "src":"icons/icon-72x72.png",
@@ -49,6 +47,5 @@
   "start_url": "",
   "theme_color": "#e8dded",
   "background_color": "#e8dded"
- 
 }
    

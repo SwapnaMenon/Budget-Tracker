@@ -10,18 +10,18 @@ SO THAT my account balance is accurate when I am traveling
 
 
 # Mock-up 
-
-
+! [demo](./Assets/Screen%20Shot%202022-07-23%20at%202.54.35%20PM.png)
+! [demo](./Assets/demo-gif.gif)
+https://drive.google.com/file/d/1HaesxvP6rGmFzX7JOLg_ZxfavEZllPXb/view
 
 
 # Instructions 
-- install all dependencicies 
+- install all dependencicies such as npm install, mongodb 
 - run terminal command npm run start and the app should run on port 3001. 
 - mock video is attached 
 
 
-
 # Links 
-- Github repo: 
+- Github repo: https://github.com/SwapnaMenon/Budget-Tracker
 
 - deployed link :https://everyday-budget-tracker.herokuapp.com/

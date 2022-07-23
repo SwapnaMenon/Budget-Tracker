@@ -15,7 +15,13 @@ SO THAT my account balance is accurate when I am traveling
 
 
 # Instructions 
+- install all dependencicies 
+- run terminal command npm run start and the app should run on port 3001. 
+- mock video is attached 
 
 
 
 # Links 
+- Github repo: 
+
+- deployed link :https://everyday-budget-tracker.herokuapp.com/

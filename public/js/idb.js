@@ -43,11 +43,8 @@ getAll.onsuccess = function() {
           if (serverResponse.message) {
             throw new Error(serverResponse);
           }
-          // open one more transaction
-          const transaction = db.transaction(['new_transaction'], 'readwrite');
-          // access the new_transaction object store
+          const transaction = db.transaction(['new_transaction'], 'readwrite')
           const budgetStore = transaction.objectStore('new_transaction');
-          // clear all items in your store
           budgetStore.clear();
 
           alert('All saved transactions has been submitted!');
@@ -58,5 +55,4 @@ getAll.onsuccess = function() {
     }
   };
 }
-// listen for app coming back online
 window.addEventListener('online', uploadTransaction);

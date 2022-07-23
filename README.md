@@ -10,9 +10,12 @@ SO THAT my account balance is accurate when I am traveling
 
 
 # Mock-up 
-! [demo](./Assets/Screen%20Shot%202022-07-23%20at%202.54.35%20PM.png)
-! [demo](./Assets/demo-gif.gif)
+! [demo](./Assets/demo-screenshot.jpg)
+
+
+
 https://drive.google.com/file/d/1HaesxvP6rGmFzX7JOLg_ZxfavEZllPXb/view
+
 
 
 # Instructions 
